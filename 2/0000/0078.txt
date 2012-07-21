@@ -1,16 +1,16 @@
-メダルかくとくすう　もくひょう
-かくとくした　メダル
-もっている　ヒントメダル
+MENU DE TRIAGE DES MEDAILLES
+Médaille Obtenue
+Médaille Inconnue
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
-\xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
-このメダルを　イチオシに　とうろくし\xfffeほかの　プレイヤーに　こうかいします
-イチオシとうろくを\xfffeかいじょ　しました
-ヒントメダルは　イチオシに\xfffeとうろく　できません！
-ひょうじの　しかたを\xfffeどのように　かえますか？
-いちらんモード
-いちれつモード
-メダルだけみる
-ヒントだけみる
+\xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x00
+La médaille sélectionnée a été choisi\xfffeet a été enregistré
+L'enregistrement de la sélection\xfffeest terminée
+Impossible de sélectionner et d'enregistrer\xfffeles médailles inconnues !
+Comment voulez-vous trier\xfffevos médailles ?
+DANS UNE LISTE
+COLONNE SIMPLE
+MEDAILLES ACQUISES
+PAS OBTENUES
 しゅるいべつ
 なまえじゅん
 あたらしいもの
